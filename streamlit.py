@@ -193,7 +193,7 @@ if page == pages[5]: #Modélisation
     #region Titre formulaire
     st.markdown(f"""
               <style>
-              .centered {{
+              .title {{
                   display: flex;
                     justify-content: center;
                     align-items: center;
@@ -206,7 +206,7 @@ if page == pages[5]: #Modélisation
                     padding: 20px;
               }}
               </style>
-              <div class="centered"> Prédiction des émissions de CO2 </div>
+              <div class="title"> Prédiction des émissions de CO2 </div>
               """,unsafe_allow_html=True)
     #endregion
     
