@@ -5,6 +5,7 @@ import numpy as np
 import seaborn as sns
 import streamlit as st
 import warnings
+import zipfile
 from sklearn.model_selection import train_test_split
 from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import OneHotEncoder
