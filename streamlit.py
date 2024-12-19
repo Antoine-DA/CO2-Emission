@@ -6,6 +6,7 @@ import seaborn as sns
 import streamlit as st
 import warnings
 import zipfile
+import joblib
 from sklearn.model_selection import train_test_split
 from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import OneHotEncoder
