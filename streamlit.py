@@ -9,8 +9,6 @@ from sklearn.ensemble import RandomForestRegressor
 #endregion
 
 #region option
-pd.set_option('display.max_columns', None)
-pd.set_option('display.float_format', '{:.2f}'.format)
 warnings.filterwarnings('ignore')
 #endregion
 
