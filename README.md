@@ -64,5 +64,5 @@ L'application Streamlit permet de :
   - [LinkedIn](https://www.linkedin.com/in/el-mansouri-299932130/)
 
 ## 📦 Installation et utilisation
-- Télécharger streamlit.py et model.zip
+- Télécharger streamlit.py, model.zip et tableau.xlsx
 Executer sur VS Code streamlit.py en local
