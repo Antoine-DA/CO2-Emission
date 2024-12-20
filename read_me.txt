@@ -18,8 +18,8 @@ Le projet a pour but de :
   - `Streamlit` : Interface utilisateur interactive.
   - `joblib` : Sauvegarde et chargement du modèle entraîné.
 - **Données** :
-  - [Mars 2014 Complete Dataset](https://www.data.gouv.fr/fr/datasets/emissions-de-co2-et-de-polluants-des-vehicules-commercialises-en-france/).
-  - [2023 European Environment Agency Dataset](https://www.eea.europa.eu/en/datahub/datahubitem-view/fa8b1229-3db6-495d-b18e-9c9b3267c02b).
+  - data_cleaned.csv est un jeu de données créé à partir de Data.csv (lien ci-dessous) qui a été nettoyé et transformé. 
+  - Jeu de données initial [2023 European Environment Agency Dataset](https://www.eea.europa.eu/en/datahub/datahubitem-view/fa8b1229-3db6-495d-b18e-9c9b3267c02b).
 
 ## 📊 Données utilisées
 Deux jeux de données ont été exploités pour cette étude :
@@ -64,7 +64,5 @@ L'application Streamlit permet de :
   - [LinkedIn](https://www.linkedin.com/in/el-mansouri-299932130/)
 
 ## 📦 Installation et utilisation
-1. Clonez le dépôt :
-   ```bash
-   git clone https://github.com/votre-depot.git
-   cd co2_prediction_project
+- Télécharger streamlit.py et model.zip
+Executer sur VS Code streamlit.py en local
